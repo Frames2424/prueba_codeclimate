@@ -2,4 +2,4 @@
 
 This Python application repo was created to showcase the integration between GitHub and CircleCI.
 
-[![CircleCI](https://circleci.com/gh/frames2424/python_app.svg?style=svg)](https://circleci.com/gh/frames2424/python_app)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/Frames2424/prueba_codeclimate/tree/add_readme.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/Frames2424/prueba_codeclimate/tree/add_readme)
